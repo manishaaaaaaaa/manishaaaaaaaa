@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The most common password in the world is still "123456"!
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manishaaaaaaaa
+![GitHub Streak](https://streak-stats.demolab.com/?user=manishaaaaaaaa&theme=dark
 
 <!---
 manishaaaaaaaa/manishaaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
