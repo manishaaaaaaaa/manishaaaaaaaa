@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Manisha Dahal
 - 📫 How to reach me :(mailto:maneeshadahal85@gmail.com)
-- ⚡ Fun fact: The most common password in the world is still "123456"!
+- ⚡ Fun fact: The most common password in the world is still "123456"!!
 
 
 <!---
