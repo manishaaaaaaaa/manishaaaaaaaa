@@ -1,6 +1,8 @@
 
 
-- 👋 Hi, I’m Manisha Dahal
+# 👋 Hi, I’m Manisha Dahal
+
+![Welcome GIF](https://media.giphy.com/media/3o7aD9oNCzpyzAPnFe/giphy.gif)
 - 📫 How to reach me: [maneeshadahal85@gmail.com](mailto:maneeshadahal85@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manisha-dahal/)
 - ⚡ Fun fact: The most common password in the world is still "123456"!!
