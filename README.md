@@ -2,7 +2,6 @@
 
 # 👋 Hi, I’m Manisha Dahal
 
-![Cute Love Swirl Around Cat](https://gifdb.com/gif/cute-love-swirl-around-cat-9c27zdppmrnmzx4c.html)
 
 - 📫 How to reach me: [maneeshadahal85@gmail.com](mailto:maneeshadahal85@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manisha-dahal/)
