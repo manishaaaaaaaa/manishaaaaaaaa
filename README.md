@@ -1,8 +1,10 @@
 
 
-- 👋 Hi, I’m Manisha Dahal
-- 📫 How to reach me :(maneeshadahal85@gmail.com)
+-  👋 Hi, I’m Manisha Dahal
+- 📫 How to reach me: [maneeshadahal85@gmail.com](mailto:maneeshadahal85@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manisha-dahal/)
 - ⚡ Fun fact: The most common password in the world is still "123456"!!
+
 
 
 <!---
