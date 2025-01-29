@@ -14,7 +14,7 @@
     <a href="https://x.com/_ManishaDahal" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/>
     </a>
-    <a href="https://huggingface.co/your-username" target="_blank">
+    <a href="https://huggingface.co/Manishadahal" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" height="50"/>
 </a>
 
